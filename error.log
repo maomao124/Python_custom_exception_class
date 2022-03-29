@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python自定义异常类\test2.py", line 30, in <module>
+    raise InputError(1)  # 抛出 MyInputError 这个异常
+InputError: 1 is invalid input
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python自定义异常类\test2.py", line 30, in <module>
+    raise InputError(1)  # 抛出 MyInputError 这个异常
+InputError: 1 is invalid input
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python自定义异常类\test2.py", line 30, in <module>
+    raise InputError(1)  # 抛出 MyInputError 这个异常
+InputError: 1 is invalid input
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python自定义异常类\test2.py", line 30, in <module>
+    raise InputError(1)  # 抛出 MyInputError 这个异常
+InputError: 1 is invalid input
